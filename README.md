@@ -1,5 +1,9 @@
 # jupyterlab-railway
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/jupyterlab-or-just-updated-notebooks-and?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
+**Deploy on Railway:** [JupyterLab template](https://railway.com/deploy/jupyterlab-or-just-updated-notebooks-and?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
 Railway wrapper image for JupyterLab (Jupyter Docker Stacks `scipy-notebook`).
 
 Fixes three things a stock deploy on Railway gets wrong:
